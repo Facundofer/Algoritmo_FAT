@@ -2,6 +2,6 @@
 
 Participantes:
 
-  -Facundo Fernandez
-  -Nayla Lopez
-  -Wanda Alexandre
+    -Facundo Fernandez
+    -Nayla Lopez
+    -Wanda Alexandre
